@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="34" max="32767" attributes="0"/>
+              <Component id="tile1" min="-2" pref="43" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="tile2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="tile3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="tile4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="tile5" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="tile6" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="tile7" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                  <Component id="tile1" max="32767" attributes="0"/>
+                  <Component id="tile2" alignment="1" max="32767" attributes="0"/>
+                  <Component id="tile3" alignment="1" max="32767" attributes="0"/>
+                  <Component id="tile4" alignment="1" max="32767" attributes="0"/>
+                  <Component id="tile5" alignment="1" max="32767" attributes="0"/>
+                  <Component id="tile6" alignment="1" max="32767" attributes="0"/>
+                  <Component id="tile7" alignment="1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="0" pref="24" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="gui.Tile" name="tile1">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new gui.Tile(ScrabbleValues.A)"/>
+      </AuxValues>
+    </Component>
+    <Component class="gui.Tile" name="tile2">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new gui.Tile(ScrabbleValues.K)"/>
+      </AuxValues>
+    </Component>
+    <Component class="gui.Tile" name="tile3">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new gui.Tile(ScrabbleValues.P)"/>
+      </AuxValues>
+    </Component>
+    <Component class="gui.Tile" name="tile4">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new gui.Tile(ScrabbleValues.O)"/>
+      </AuxValues>
+    </Component>
+    <Component class="gui.Tile" name="tile5">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new gui.Tile(ScrabbleValues.E)"/>
+      </AuxValues>
+    </Component>
+    <Component class="gui.Tile" name="tile6">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new gui.Tile(ScrabbleValues.S)"/>
+      </AuxValues>
+    </Component>
+    <Component class="gui.Tile" name="tile7">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new gui.Tile(ScrabbleValues.GB)"/>
+      </AuxValues>
+    </Component>
+  </SubComponents>
+</Form>
