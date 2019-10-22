@@ -1,2 +1,2 @@
 # Skrabu
-A Scrabble game for testing different AI algorithms
+A Scrabble game built for yoruba language
